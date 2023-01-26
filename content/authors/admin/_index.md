@@ -1,73 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Grigor Mantashian
+role: "Researcher "
+avatar_filename: avatar.jpg
+bio: My research interests are the quantum dots with non-trivial geometries and
+  quantum dots as platforms for quantum information, quantum optics, and
+  nanoscale devices.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Quantum Dots as Nanoscale Device Components
+  - Quantum Optics
+  - Quantum Information
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: grigor.mantashian@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/GriegMan
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=oCAxFKEAAAAJ
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/grigormant/
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    icon: linkedin
+organizations:
+  - name: Russian-Armenian University
+    url: https://rau.am/en
+  - name: Institute of Chemical Physics after A.B. Nalbandyan
+    url: https://www.sci.am/m/orgsview.php?id=27&langid=2
+education:
+  courses:
+    - course: Ms. Sc. in Quantum and Optical Electronics
+      institution: Russian-Armenian University
+      year: 2023
+    - course: BSc in Nanoelectronics and Electronics
+      institution: Russian-Armenian University
+      year: 2021
+email: ""
+superuser: true
 user_groups:
   - Researchers
+highlight_name: false
 ---
+Grigor is a Researcher at the  [Russian-Armenian University](https://rau.am/en) and [Institute of Chemical Physics after A.B. Nalbandyan](https://www.sci.am/m/orgsview.php?id=27&langid=2). He is currently pursuing his Master’s degree in the Department of General Physics and Quantum Nanostructures with a specialization in quantum and optical electronics. His master thesis has the topic of thesis research investigates the properties of semiconductor quantum dots with non-trivial geometries and quantum dots as platforms for quantum information, quantum optics, and nanoscale devices. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is also interested in the investigation of the control of quantum dot systems using various optical, electrostatic, and magnetic methods and quantum decoherence sources. His main responsibilities in the group include but are not limited to the theoretical study of low-dimensional semiconductor nanostructures and the analysis of experimental results.
