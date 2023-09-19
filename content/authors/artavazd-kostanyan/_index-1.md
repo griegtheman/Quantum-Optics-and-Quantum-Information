@@ -33,7 +33,7 @@ organizations:
 education:
   courses: []
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 highlight_name: false
