@@ -8,7 +8,7 @@ interests:
   - Quantum Information
 social:
   - display:
-      header: false
+      header: true
     link: https://scholar.google.com/citations?user=ANNWlroAAAAJ&hl=en&oi=ao
     icon_pack: ai
     icon: Scholar
