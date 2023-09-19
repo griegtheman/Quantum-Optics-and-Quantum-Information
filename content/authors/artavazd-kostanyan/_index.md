@@ -7,7 +7,7 @@ social:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=cTTG9ooAAAAJ&view_op=list_works
     icon_pack: ai
-    icon: Scholar
+    icon: google-scholar
     label: ""
 organizations:
   - name: Russian-Armenian University
