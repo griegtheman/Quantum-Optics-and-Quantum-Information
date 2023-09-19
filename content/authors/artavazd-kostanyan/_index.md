@@ -9,5 +9,7 @@ social:
     icon_pack: ai
     icon: Scholar
     label: ""
+organizations:
+  - name: Russian-Armenian University
 superuser: false
 ---
