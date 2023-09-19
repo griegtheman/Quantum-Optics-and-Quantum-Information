@@ -12,4 +12,6 @@ social:
 organizations:
   - name: Russian-Armenian University
 superuser: false
+user_groups:
+  - Researchers
 ---
