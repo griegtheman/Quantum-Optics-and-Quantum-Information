@@ -32,7 +32,7 @@ organizations:
     url: https://www.sci.am/m/orgsview.php?id=27&langid=2
 education:
   courses: []
-email: ""
+email: "artavazd.kostanyan@rau.am "
 superuser: false
 user_groups:
   - Researchers
