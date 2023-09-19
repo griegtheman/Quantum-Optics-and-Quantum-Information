@@ -1,7 +1,7 @@
 ---
 title: Artavazd Kostanyan
 role: Researcher at the Department of General Physics and Quantum Nanostructures
-avatar_filename: avatar.jpg
+avatar_filename: 35078610_10156511195539452_7865861517449625600_n.jpg
 bio: My research interests are the quantum dots with non-trivial geometries and
   quantum dots as platforms for quantum information, quantum optics, and
   nanoscale devices.
